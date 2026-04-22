@@ -52,7 +52,7 @@ The model is deployed as a Streamlit application at **[emmanuella-housing-predic
 
 Enter a postcode, property type, and tenure → the app returns an estimated sale price based on real historical transactions.
 
-![App screenshot]("docs/images/app_screenshot.png")
+![App screenshot](docs/images/app_screenshot.png)
 
 ---
 
