@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
 
-**[▶ Live Demo](https://your-app-name.streamlit.app)** · **[Notebook](explore.ipynb)**
+**[▶ Live Demo](https://emmanuella-housing-predictor.streamlit.app)** · **[Notebook](explore.ipynb)**
 
 ---
 
@@ -48,11 +48,11 @@ The project simulates the kind of pipeline a data scientist might build at a Pro
 
 ## Live demo
 
-The model is deployed as a Streamlit application at **[your-app-name.streamlit.app](https://emmanuella-housing-predictor.streamlit.app/)**.
+The model is deployed as a Streamlit application at **[emmanuella-housing-predictor.streamlit.app](https://emmanuella-housing-predictor.streamlit.app/)**.
 
 Enter a postcode, property type, and tenure → the app returns an estimated sale price based on real historical transactions.
 
-![App screenshot]("C:\Users\emman\OneDrive\Pictures\Screenshots\Screenshot 2026-04-22 010038.png")
+![App screenshot]("docs/images/app_screenshot.png")
 
 ---
 
