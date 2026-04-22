@@ -224,4 +224,4 @@ The underlying data is published under the [Open Government Licence v3.0](https:
 
 ---
 
-*Built as part of a data science portfolio. Questions or suggestions? Open an issue or connect on [LinkedIn](www.linkedin.com/in/emmanuel-labinjo).*
+*Built as part of a data science portfolio. Questions or suggestions? Open an issue or connect on [LinkedIn](https://linkedin.com/in/emmanuel-labinjo).*
