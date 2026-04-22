@@ -48,11 +48,11 @@ The project simulates the kind of pipeline a data scientist might build at a Pro
 
 ## Live demo
 
-The model is deployed as a Streamlit application at **[your-app-name.streamlit.app](https://your-app-name.streamlit.app)**.
+The model is deployed as a Streamlit application at **[your-app-name.streamlit.app](https://emmanuella-housing-predictor.streamlit.app/)**.
 
 Enter a postcode, property type, and tenure → the app returns an estimated sale price based on real historical transactions.
 
-![App screenshot](docs/images/app_screenshot.png)
+![App screenshot]("C:\Users\emman\OneDrive\Pictures\Screenshots\Screenshot 2026-04-22 010038.png")
 
 ---
 
